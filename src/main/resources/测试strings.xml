@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY appname "CashRun">
+    <!ENTITY currency_code "PKR">
+    <!ENTITY clickable_privacy_agreement "privacy agreement">
+    <!ENTITY clickable_user_service_agreement "user service agreement">
+    ]>
+<resources>
+
+    <string name="login_agree_protocol_text">We attach great importance to your privacy protection and personal information protection.
+        Please read the &clickable_privacy_agreement; and &clickable_user_service_agreement; of &appname; carefully and agree that you can accept all the terms before using our service</string>
+    
+    <string name="maximum_loan_amount_title_withunit">Maximum loan amount(&currency_code;)</string>
+    <string name="amount_title_with_unit">>Loan Amount (&currency_code;)</string>
+    
+</resources>
